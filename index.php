@@ -35,7 +35,7 @@ Website::head();
 											<div class="header-content-container center">
 												<div class="header-content">
 
-													<h1 class="et_pb_module_header">Rich Edyy Chocolate Company</h1>
+													<h1 class="et_pb_module_header">Rich Eddy Chocolate Company</h1>
 													<span class="et_pb_fullwidth_header_subhead">Homemade. Best Quality.
 														None Finer!</span>
 													<div class="et_pb_header_content_wrapper"></div>
@@ -342,7 +342,7 @@ Website::head();
 
 
 												<div class="et_pb_text_inner">
-													<p>For every season &amp; special occasion Rich Edyy Chocolate Company
+													<p>For every season &amp; special occasion Rich Eddy Chocolate Company
 														offers a wide selection of chocolates, truffles, fudge, toffee
 														and more.</p>
 												</div>
@@ -475,7 +475,7 @@ Website::head();
 
 
 
-												<a href="wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap "><img decoding="async" width="620" height="620" src="wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq.jpg" alt="" title="Rich Edyy Chocolate Company" srcset="wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq.jpg 620w, wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-300x300.jpg 300w, wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-100x100.jpg 100w, wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-600x600.jpg 600w, wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="wp-image-48804" /></span></a>
+												<a href="wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap "><img decoding="async" width="620" height="620" src="wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq.jpg" alt="" title="Rich Eddy Chocolate Company" srcset="wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq.jpg 620w, wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-300x300.jpg 300w, wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-100x100.jpg 100w, wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-600x600.jpg 600w, wp-content/uploads/2020/02/chocolate-factory_8591-easter-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="wp-image-48804" /></span></a>
 											</div>
 										</div>
 										<div class="et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough">
@@ -488,7 +488,7 @@ Website::head();
 
 
 
-												<a href="wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap "><img decoding="async" width="620" height="620" src="wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq.jpg" alt="" title="Rich Edyy Chocolate Company" srcset="wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq.jpg 620w, wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq-300x300.jpg 300w, wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq-100x100.jpg 100w, wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq-600x600.jpg 600w, wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="wp-image-48793" /></span></a>
+												<a href="wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap "><img decoding="async" width="620" height="620" src="wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq.jpg" alt="" title="Rich Eddy Chocolate Company" srcset="wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq.jpg 620w, wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq-300x300.jpg 300w, wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq-100x100.jpg 100w, wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq-600x600.jpg 600w, wp-content/uploads/2020/02/chocolate-factory_9201-easter-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="wp-image-48793" /></span></a>
 											</div>
 										</div>
 										<div class="et_pb_column et_pb_column_1_3 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -501,7 +501,7 @@ Website::head();
 
 
 
-												<a href="wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap "><img decoding="async" width="620" height="620" src="wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq.jpg" alt="" title="Rich Edyy Chocolate Company" srcset="wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq.jpg 620w, wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq-300x300.jpg 300w, wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq-100x100.jpg 100w, wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq-600x600.jpg 600w, wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="wp-image-48791" /></span></a>
+												<a href="wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq.jpg" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap "><img decoding="async" width="620" height="620" src="wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq.jpg" alt="" title="Rich Eddy Chocolate Company" srcset="wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq.jpg 620w, wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq-300x300.jpg 300w, wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq-100x100.jpg 100w, wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq-600x600.jpg 600w, wp-content/uploads/2020/02/chocolate-factory_9202-easter-sq-150x150.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" class="wp-image-48791" /></span></a>
 											</div>
 										</div>
 
@@ -654,7 +654,7 @@ Website::head();
 
 
 												<div class="et_pb_text_inner">
-													<h2>Rich Edyy Chocolate Company</h2>
+													<h2>Rich Eddy Chocolate Company</h2>
 												</div>
 											</div>
 										</div>
@@ -702,7 +702,7 @@ Website::head();
 
 
 												<div class="et_pb_text_inner">
-													<p><span class="pop">Rich Edyy Chocolate Company</span> is a local
+													<p><span class="pop">Rich Eddy Chocolate Company</span> is a local
 														manufacturer of fine chocolate products. Our chocolates are
 														produced daily, ensuring the highest quality for our customers.
 														We pride ourselves on manufacturing products on an as-needed
@@ -714,7 +714,7 @@ Website::head();
 														London location, located in the Covent Garden Market. This
 														ensures our chocolates are fresh and of the highest quality for
 														our customers.</p> -->
-													<!-- <p>Rich Edyy Chocolate Company was established in 1986 in St. Marys
+													<!-- <p>Rich Eddy Chocolate Company was established in 1986 in St. Marys
 														Ontario by its original owners Pat and Ron Cottrell who are now
 														semi-retired. They have passed the wooden spoon on to their
 														daughter Liz and her husband Derek. After a few years of
